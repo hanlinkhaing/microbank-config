@@ -4,7 +4,7 @@ build:
 account:
   message: "Welcome to MicroBank Card Service: QA ENV"
   contactDetails:
-    email: "han@microbank.com"
+    email: "{cipher}2d539bacd8ff3ceb774f101ffe4b3f26628b62f4f19ddf4c946a7c1049090eb414002d079d634a9b41a1624af93381f7"
     name: "Han Solo"
   onCallSupport:
     - (66)23423234
