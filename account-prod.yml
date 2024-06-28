@@ -3,7 +3,7 @@ build:
   version: 0.0.1-PROD-SNAPSHOT
 
 account:
-  message: "Welcome to MicroBank Account Service: PRODUCTION ENV"
+  message: "Welcome to MicroBank Account Service: PROD ENV"
   contactDetails:
     email: "han@microbank.com"
     name: "Han Solo"
